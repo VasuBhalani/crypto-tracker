@@ -61,10 +61,4 @@ The application simulates real-time updates by:
 3. Dispatching Redux actions to update the store
 4. Components re-render with new data automatically
 
-## Future Improvements
 
-- Add sorting and filtering options
-- Implement real WebSocket connection to a crypto API
-- Add pagination for large sets of data
-- Add detail view for each cryptocurrency
-- Implement dark mode theme
